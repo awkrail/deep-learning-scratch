@@ -30,6 +30,7 @@
 - skip-gramの実装を読む
 
 # ch04
+分散表現②(分散表現の高速化) : Skip-gram, Negative-Sampling
 
 ## 疑問, 試したいこと
 - word2vecのEmbeddingレイヤで重複を取り除くためになぜ代入ではなく加算を行うのだろうか
